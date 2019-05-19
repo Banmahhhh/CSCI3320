@@ -1,0 +1,6 @@
+The best number of cluster is 5.
+
+The ARI score is:  0.9349562783596687
+The MRI score is:  1.6094379124341005
+The v-measure score is:  0.9587820033385083
+The average silhouette score is:  0.6555675139122772

@@ -1,0 +1,4 @@
+To achieve PoV >= 0.95, 113 dimensions need to be preserved.
+The original dimension is 784, only 113 dimensions can achieve PoV>=0.95, which means
+that part of attributes can provide most of information. Using 113 attributes, we can 
+already perform further actions.

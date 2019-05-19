@@ -1,0 +1,9 @@
+Number of samples: 10000
+Number of features: 784
+
+The best number of clusters is 12.
+
+ARI: Maximum at 8, decrease first and increase at 10.
+MRI: Increase from 8 to 12.
+V_measure: Decrease first then increase at 10.
+Silhouette Coefficient: Decrease from 8 to 10, then increase slowly from 10.
